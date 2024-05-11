@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JD-IO3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JD-IO3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-io3&" height="200" alt="jd-io3" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-io3&theme=radical" height="200" alt="jd-io3" />
 </div>
 
 ###
@@ -52,4 +52,4 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jd-io3&" alt="jd-io3" /></p>
+<img src="https://raw.githubusercontent.com/JD-IO3/JD-IO3/output/snake.svg" alt="Snake animation" />
