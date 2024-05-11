@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-io3&label=Profile%20views&color=0e75b6&style=flat" alt="jd-io3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd-io3" alt="jd-io3" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React.js, Node.js and Express.js**
@@ -20,6 +18,8 @@
 </div>
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd-io3&theme=radical" alt="jd-io3" /></a> </p>
 
 ###
 
