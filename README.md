@@ -11,6 +11,13 @@
 
 ###
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JD-IO3/JD-IO3/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">Languages and Tool:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -52,7 +59,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JD-IO3/JD-IO3/output/snake.svg" alt="Snake animation" />
 
