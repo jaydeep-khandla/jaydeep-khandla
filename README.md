@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd-io3&theme=radical" alt="jd-io3" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd-io3&theme=radical" alt="jd-io3" /></a> </p>
 
 ###
 
