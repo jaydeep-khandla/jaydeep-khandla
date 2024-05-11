@@ -51,3 +51,8 @@
 </p>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JD-IO3/JD-IO3/output/snake.svg" alt="Snake animation" />
+
