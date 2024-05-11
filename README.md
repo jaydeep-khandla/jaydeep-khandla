@@ -11,12 +11,13 @@
 
 ###
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JD-IO3/JD-IO3/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Languages and Tool:</h3>
 <div align="left">
@@ -39,9 +40,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd-io3&theme=radical" alt="jd-io3" /></a> </p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JD-IO3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph"  />
@@ -50,6 +55,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
