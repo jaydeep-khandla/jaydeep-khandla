@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydeep-khandla&theme=radical" alt="jd-io3" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydeep-khandla&theme=radical" alt="jaydeep-khandla" /></a> </p>
 
 ###
 
@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-khandla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydeep-khandla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="180" alt="languages graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-khandla&theme=radical" height="180" alt="jd-io3" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-khandla&theme=radical" height="180" alt="jaydeep-khandla" />
 </div>
 
 ###
